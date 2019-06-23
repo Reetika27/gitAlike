@@ -1,0 +1,5 @@
+The program works like a limited edition of git. It works as a version control mechanism , where for every line appended or deleted per
+version the version specific details are stored. 
+The hello1.txt is the base file created as version 0 of the file.
+command.txt contains operations performed on the file per version saved as a line.
+version.txt conatins the version before the commmited version of the file.
